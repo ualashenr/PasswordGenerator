@@ -1,5 +1,5 @@
 # PasswordGenerator
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Yse4/yseCommecer/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/ualashenr/PasswordGenerator/blob/master/LICENSE) 
 
 # Sobre o projeto
 PasswordGenerator é um projeto que consiste na criação de senhas baseadas nas preferências do usuário, como incluir letras maiúsculas, minusculas, números, entre outros. Através de uma requisição HTTP o usuário consegue passar dados e receber a senha de acordo com suas preferências.
